@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/yahya-kossor"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yahyakossor@icloud.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=apple&logoColor=white"/></a>
+
   <a href="https://github.com/21ko"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -18,7 +18,7 @@
 - 🔭 Currently looking for a **6-month Data & AI internship** starting April 2026
 - 🏆 Hackathon winner — built **HOTLINE**, a bilingual FR/EN voice AI agent
 - 🌱 Diving deep into **LLMs, RAG systems, and MLOps**
-- 🌍 Based in **Paris, France** | Originally from **Casablanca, Morocco**
+- 🌍 Based in **Paris, France** 
 - 💬 Ask me about **NLP, RAG pipelines, or Python automation**
 
 
