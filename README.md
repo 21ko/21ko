@@ -20,7 +20,7 @@
 - 🌱 Diving deep into **LLMs, RAG systems, and MLOps**
 - 🌍 Based in **Paris, France** | Originally from **Casablanca, Morocco**
 - 💬 Ask me about **NLP, RAG pipelines, or Python automation**
-- 📫 Reach me at **yahyakossor@icloud.com**
+
 
 ---
 
