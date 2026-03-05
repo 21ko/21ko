@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Yahya 👋</h1>
 
 <p align="center">
-  <em>MSc AI Student @ ECE Paris · Data & AI Enthusiast · Hackathon Winner 🏆</em>
+  <em>MSc AI Student @ ECE Paris · Data & AI Enthusiast ·</em>
 </p>
 
 <p align="center">
