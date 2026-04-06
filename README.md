@@ -27,7 +27,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,git,azure,gcp,mongodb,postgresql,fastapi,streamlit,bash" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,docker,git,mongodb,postgresql,fastapi,streamlit,bash" />
 </p>
 
 **Data & ML:** NLP · Scikit-learn · PySpark · LangChain · Pandas · TensorFlow · PyTorch  
