@@ -42,7 +42,7 @@
 
 | Project | Description |
 |---|---|
-| 🎙️ **HOTLINE** | Bilingual (FR/EN) voice AI agent using LLMs & FastAPI — **Hackathon Winner** |
+| 🎙️ **HOTLINE** | Bilingual (FR/EN) voice AI agent using LLMs & FastAPI  **Hackathon Winner** |
 | 🔍 **Mini RAG** | Retrieval-Augmented Generation system with Mistral, Ollama, LangChain & Streamlit |
 | 📁 **Internship Archiving System** | Document management with NLP-based indexing (Python, MongoDB) |
 | 📊 **YouTube Sentiment Analysis** | ML pipeline for comment classification (Scikit-learn, Pandas) |
